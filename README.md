@@ -1,6 +1,6 @@
 # Image Classification - CIFAR10
 
-## Results
+### Resnet
 | Model | Layers | Accuracy |
 |  ----  | ----  | ---- |
 | Resnet-basicblock | 20 | 91.84%|
@@ -8,4 +8,6 @@
 | Resnet-basicblock | 32 | 91.92%|
 | Resnet-bottleneck | 32 | 92.63%|
 
+### PreAct-Resnet
+| Model | Layers | Accuracy |
 | Preact-Resnet-basicblock| 20 | 91.21% |

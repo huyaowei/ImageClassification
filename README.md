@@ -11,4 +11,5 @@
 ### PreAct-Resnet
 | Model | Layers | Accuracy |
 |  ----  | ----  | ---- |
-| Preact-Resnet-basicblock| 20 | 91.21% |
+| PreAct-Resnet-basicblock| 20 | 91.21% |
+| PreAct-Resnet-bottleneck| 20 | 91.99% |

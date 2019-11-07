@@ -9,5 +9,6 @@
 | Resnet-bottleneck | 32 | 92.63%|
 
 ### PreAct-Resnet
+|  ----  | ----  | ---- |
 | Model | Layers | Accuracy |
 | Preact-Resnet-basicblock| 20 | 91.21% |

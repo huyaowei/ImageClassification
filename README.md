@@ -3,7 +3,7 @@
 ### Resnet
 | Model | Layers | #Param | Accuracy |
 |  ----  | ----  | ---- | ---- |
-|Bottelneck | 100 x 10  | 0.76M|  |
+|Bottelneck | 100 x 12  | 0.76M|  |
 
 ### Resnet
 | Model | Layers | Accuracy | Model | Layers | Accuracy |

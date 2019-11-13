@@ -3,7 +3,8 @@
 ### DenseNet
 | Model | Layers | #Param | Accuracy |
 |  ----  | ----  | ---- | ---- |
-|Bottelneck | 100 x 12  | 0.76M|  |
+|Bottleneck | 100 x 12  | 0.76M| 95.02% |
+|Basic | 100 x 12  | 4.07M|      |
 
 ### Resnet
 | Model | Layers | Accuracy | Model | Layers | Accuracy |

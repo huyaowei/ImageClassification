@@ -1,6 +1,11 @@
 # Image Classification - CIFAR10
 
 ### Resnet
+| Model | Layers | #Param | Accuracy |
+|  ----  | ----  | ---- | ---- |
+|Bottelneck | 100 x 10  | 0.76M|  |
+
+### Resnet
 | Model | Layers | Accuracy | Model | Layers | Accuracy |
 |  ----  | ----  | ---- | ---- | ----| ---|
 |           |20   | 91.59% |           |    20 |91.61%|

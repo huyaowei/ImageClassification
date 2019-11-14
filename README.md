@@ -3,7 +3,7 @@
 ### AlexNet
 | Model | Layers | #Param | Accuracy |
 |  ----  | ----  | ---- | ---- |
-|        | 8     | 23M  |    % |
+|        | 8     | 23M  | 86.38% |
 
 ### DenseNet
 | Model | Layers | #Param | Accuracy |

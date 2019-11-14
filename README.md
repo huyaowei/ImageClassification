@@ -5,7 +5,7 @@
 |  ----  | ----  | ---- | ---- |
 |Bottleneck | 100 x 12  | 0.76M| 95.02% |
 |Basic      | 100 x 12  | 4.07M| 95.96% |
-|Basic      | 100 x 24  | 16M  |        |
+|Basic      | 100 x 24  | 16M  | 95.16% |
 
 ### Resnet
 | Model | Layers | Accuracy | Model | Layers | Accuracy |

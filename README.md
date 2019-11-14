@@ -1,5 +1,10 @@
 # Image Classification - CIFAR10
 
+### AlexNet
+| Model | Layers | #Param | Accuracy |
+|  ----  | ----  | ---- | ---- |
+|        | 8     | 23M  |    % |
+
 ### DenseNet
 | Model | Layers | #Param | Accuracy |
 |  ----  | ----  | ---- | ---- |

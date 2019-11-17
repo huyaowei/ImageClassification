@@ -3,7 +3,7 @@
 ### Tricks 
 + Linear scaling learning rate (LSLR)
 + Learning rate warmup
-+ Zero \gamma
++ Zero r
 + No bias decay
 + Cosine Learning Rate Decay
 + Label Smoothing (LS)

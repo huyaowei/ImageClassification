@@ -1,6 +1,6 @@
 # Image Classification - CIFAR10
 
-###Tricks 
+### Tricks 
 + Linear scaling learning rate (LSLR)
 + Learning rate warmup
 + Zero $\gamma$
@@ -11,9 +11,9 @@
 
 
 ### AlexNet
->>n_epochs=200, batch_size=128
->>SGD(lr=0.01, momentum=0.9, weight_decay=1e-4, nesterov=True)
->>MultiStepLR(milestones=[80, 120, 160], gamma=0.1)
+> n_epochs=200, batch_size=128
+> SGD(lr=0.01, momentum=0.9, weight_decay=1e-4, nesterov=True)
+> MultiStepLR(milestones=[80, 120, 160], gamma=0.1)
 
 | Tricks | #Param | Accuracy |
 | ----  | ----   | -------  |
@@ -29,7 +29,7 @@
 |Alex + Warmup + Cosine + LS | 23.27M | 85.18% |
 |Alex + Warmup + Cosine + Mixup | 23.27M | 86.87% |
 |Alex + Warmup + Cosine + LS + Mixup | 23.27M | 86.78%
-|Alex + Warmup + Cosein + Mixup + LSLR * 2 | 23.27M | 86.94% |
+|Alex + Warmup + Cosein + Mixup + LSLR * 2 | 23.27M | **86.94%** |
 |Alex + Warmup + Cosine + Mixup + No bias decay + LSLR * 2 | 23.27M | 86.72% |
 |Alex + Warmup + Cosin + Mixup + LS + No bias decay + LSLR * 2| 23.27M | 86.39%|
 

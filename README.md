@@ -1,4 +1,4 @@
-# Image Classification - CIFAR10
+# Image Classification - CIFAR10 - Pytorch
 
 ### Tricks 
 + Linear scaling learning rate (LSLR)

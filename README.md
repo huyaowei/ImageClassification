@@ -3,7 +3,7 @@
 ### Tricks 
 + Linear scaling learning rate (LSLR)
 + Learning rate warmup
-+ Zero $\gamma$
++ Zero $\pi$
 + No bias decay
 + Cosine Learning Rate Decay
 + Label Smoothing (LS)
@@ -11,8 +11,8 @@
 
 
 ### AlexNet
-> n_epochs=200, batch_size=128
-> SGD(lr=0.01, momentum=0.9, weight_decay=1e-4, nesterov=True)
+> n_epochs=200, batch_size=128 <br>
+> SGD(lr=0.01, momentum=0.9, weight_decay=1e-4, nesterov=True) <br>
 > MultiStepLR(milestones=[80, 120, 160], gamma=0.1)
 
 | Tricks | #Param | Accuracy |

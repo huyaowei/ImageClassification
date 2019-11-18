@@ -45,7 +45,7 @@
 | VGG13  | 9.94M | 90.50%|
 |VGG13_BN | 9.94M  |91.79%|
 |VGG16    |15.25M  |90.33%|
-|VGG16_BN |15.25M  |91.88%|
+|VGG16_BN |15.25M  |**91.88%**|
 |VGG19    |20.55M  |90.48%|
 |VGG19_BN  |20.57M |91.69%|
 
@@ -58,10 +58,8 @@
 |VGG16_BN + Warmup              |15.25M  |       93.29%|
 |VGG16_BN + Warmup + Cosin      |15.25M   |      93.50%|
 |VGG16_BN + Warmup + Cosin  + No bias Decay    |15.25M    |     92.99%|
-         
 |VGG16_BN + Warmup + Cosin  + LS    |15.25M   |      93.39%|
-|         
-|VGG16_BN + Warmup + Cosin   + Mixup    |15.25M    |     94.13%|
+|VGG16_BN + Warmup + Cosin   + Mixup    |15.25M    |     **94.13%**|
         
 
 ### DenseNet
